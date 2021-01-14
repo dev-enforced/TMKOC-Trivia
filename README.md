@@ -12,4 +12,4 @@
 1. Shows scores of the current player + correct answer with good UI at the end
 
 ## Play it here:
-[Link](https://repl.it/@devenforced/How-Well-do-you-know-Dev-Enforced?embed=1&output=1#index.js)
+[Link](https://repl.it/@devenforced/TMKOC-Trivia?embed=1&output=1#index.js)

@@ -99,10 +99,10 @@ if(response===true){
     evaluation(questionList[i].q,questionList[i].a)
   }
 }else{
-  log("Hope you find the time to play the game.")
+  log("Hope you find the time to play the game."+emoji.get(":open_mouth:"))
 }
 
-log(chalk.red.bgYellow.underline("Total points scored by "+userName+": ")+score)
+log(chalk.red("Total points scored by "+userName+": ")+score)
 for(i=0;i<highScores.length;i++){
   if(score>highScores[i].pS){
     correctAnswered++;
